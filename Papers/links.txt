@@ -1,2 +1,10 @@
 2. What every programmer should know about memory - https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
-
+3. History Repeats Itself - Sensible and NonsenSQL Aspects of the NoSQL Hoopla - Mohan13.pdf - http://openproceedings.org/2013/conf/edbt/Mohan13.pdf
+4. Advances in Database Technology - EDBT 2020 - proceedings.pdf - http://openproceedings.org/2020/conf/edbt/proceedings.pdf
+5. Advances in Database Technology - EDBT 2019 - proceedings.pdf - http://openproceedings.org/2019/conf/edbt/proceedings.pdf
+6. Advances in Database Technology - EDBT 2016 - proceedings.pdf - http://openproceedings.org/2016/conf/edbt/proceedings.pdf
+7. Advances in Database Technology - EDBT 2017 - proceedings.pdf - http://openproceedings.org/2017/conf/edbt/proceedings.pdf
+8. Advances in Database Technology - EDBT 2018 - proceedings.pdf - http://openproceedings.org/2018/conf/edbt/proceedings.pdf
+9. http://openproceedings.org/2019/conf/inoc/proceedings.pdf
+10. https://www.cs.cmu.edu/~dga/papers/memc3-nsdi2013.pdf - MemC3 - Compact and Concurrent MemCache with DumberCaching and Smarter HashingMemC3: Compact and Concurrent MemCache with DumberCaching and Smarter Hashing - memc3-nsdi2013.pdf
+11. 
