@@ -7,4 +7,5 @@
 8. Advances in Database Technology - EDBT 2018 - proceedings.pdf - http://openproceedings.org/2018/conf/edbt/proceedings.pdf
 9. http://openproceedings.org/2019/conf/inoc/proceedings.pdf
 10. https://www.cs.cmu.edu/~dga/papers/memc3-nsdi2013.pdf - MemC3 - Compact and Concurrent MemCache with DumberCaching and Smarter HashingMemC3: Compact and Concurrent MemCache with DumberCaching and Smarter Hashing - memc3-nsdi2013.pdf
-11. 
+11. http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
+12. 
